@@ -1,0 +1,30 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "This is a spotify clone for my app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raviprabhat527/web-Development-class-Backend.git"
+  },
+  "keywords": [
+    "spotify",
+    "music"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raviprabhat527/web-Development-class-Backend/issues"
+  },
+  "homepage": "https://github.com/Raviprabhat527/web-Development-class-Backend#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "i": "^0.3.7",
+    "npm": "^11.2.0",
+    "slugify": "^1.6.6"
+  }
+}
