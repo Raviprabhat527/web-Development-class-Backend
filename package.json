@@ -1,31 +1,15 @@
 {
-  "name": "spotify",
+  "name": "class-89-nodejs",
   "version": "1.0.0",
-  "description": "This is a spotify clone for my app",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Raviprabhat527/web-Development-class-Backend.git"
-  },
-  "keywords": [
-    "spotify",
-    "music"
-  ],
-  "author": "Ravi",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Raviprabhat527/web-Development-class-Backend/issues"
-  },
-  "homepage": "https://github.com/Raviprabhat527/web-Development-class-Backend#readme",
+  "description": "",
   "dependencies": {
-    "express": "^4.21.2",
-    "i": "^0.3.7",
-    "npm": "^11.2.0",
-    "slugify": "^1.6.6"
-  },
-  "devDependencies": {}
+    "express": "^4.21.2"
+  }
 }
