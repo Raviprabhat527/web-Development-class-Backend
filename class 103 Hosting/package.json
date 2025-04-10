@@ -1,0 +1,16 @@
+{
+  "name": "class-103-hosting",
+  "version": "1.0.0",
+  "description": "types of Hosting:-\r 1. shared Hosting\r 2. Dedicated Hosting\r 3. Managed Hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
