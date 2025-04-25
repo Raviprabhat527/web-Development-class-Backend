@@ -1,5 +1,7 @@
 //open in file / Terminal: code - r foldername
- exam: code - r first
+ example (1): code -r first
+ example (2): code -r .\(foldername)website
+
 
 // run in program/Terminal - npm run dev 
 
